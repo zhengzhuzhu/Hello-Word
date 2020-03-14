@@ -1,2 +1,3 @@
 # Hello-Word
-It is my first repository in GitHub by using the induction.
+It is my two branch in GitHub by using the induction.
+And i try to make some differences.
